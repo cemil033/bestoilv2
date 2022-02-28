@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.Properties.Resources.resources
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.Views.bestoil.resources
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bestoilv2\bestoilv2\bin\Debug\bestoilv2.exe.config
+C:\Users\User\source\repos\bestoilv2\bestoilv2\bin\Debug\bestoilv2.exe
+C:\Users\User\source\repos\bestoilv2\bestoilv2\bin\Debug\bestoilv2.pdb
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.exe
+C:\Users\User\source\repos\bestoilv2\bestoilv2\obj\Debug\bestoilv2.pdb
